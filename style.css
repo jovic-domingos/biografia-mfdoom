@@ -1,0 +1,41 @@
+body {
+    background: #000000
+    
+}
+
+#doom {
+
+}
+
+h1 {
+    text-align: center
+   
+}
+p {
+    text-align: center;
+
+}
+
+strong {
+    color:#F5DA81
+
+}
+
+.itens {
+    font-style: italic;
+}
+
+.albuns {
+ background:#000000
+
+}
+
+ul {
+    display: inline;
+    vertical-align: top;
+    margin-right: 15%;
+
+}
+.banner {
+    width: 79%;
+}
